@@ -20,7 +20,7 @@ WiseCloud is a Python simulator for energy-efficient virtual machine (VM) schedu
 ### Quickstart
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/AryanSONI00/WiseCloud.git
 cd WiseCloud
 python -m venv venv
 venv\Scripts\activate  # on Windows; use source venv/bin/activate on macOS/Linux
